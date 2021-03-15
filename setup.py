@@ -2,7 +2,7 @@ from setuptools import setup
 from biketrauma_brd import __version__ as current_version
 
 setup(
-  name='biketrauma_brd_',
+  name='biketrauma_brda',
   version=current_version,
   description='Visualization of a bicycle accident db',
   url='https://github.com/Assiab2707/packaging_tutorial',
