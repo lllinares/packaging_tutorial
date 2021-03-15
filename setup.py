@@ -1,8 +1,8 @@
 from setuptools import setup
-from biketrauma import __version__ as current_version
+from biketrauma_brd import __version__ as current_version
 
 setup(
-  name='biketrauma',
+  name='biketrauma_brd',
   version=current_version,
   description='Visualization of a bicycle accident db',
   url='http://github.com/xxxxxxxxxxx.git',
