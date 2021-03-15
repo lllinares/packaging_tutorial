@@ -5,10 +5,10 @@ setup(
   name='biketrauma_brd',
   version=current_version,
   description='Visualization of a bicycle accident db',
-  url='http://github.com/xxxxxxxxxxx.git',
-  author='xxxxxxxxxxx',
-  author_email='xxxxxxxxxx@xxxxxxxxxxxxx.xxx',
-  license='MIT',
+  url='https://github.com/Assiab2707/packaging_tutorial',
+  author='Assia Berrandou',
+  author_email='assia.berrandou@etu.umontpellier.fr',
+  license='MIND',
   packages=['biketrauma_brd','biketrauma_brd.io', 'biketrauma_brd.preprocess', 'biketrauma_brd.vis'],
   zip_safe=False
 )
